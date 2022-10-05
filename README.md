@@ -1,5 +1,3 @@
-[![Medium](https://veroanggra.github.io/mediump1.png)](https://medium.com/@veroanggra)
-[![Medium](https://veroanggra.github.io/medium2.svg)](https://medium.com/@veroanggra)
 [![Medium](https://veroanggra.github.io/medium3.svg)](https://medium.com/@veroanggra)
 
 
