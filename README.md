@@ -1,4 +1,4 @@
-[![Medium](https://skydoves.github.io/badges/Story-Medium.svg)](https://github.com/veroanggra)
+[![Medium](https://veroanggra.github.io/medium.png)](https://medium.com/@veroanggra)
 
 
 <!--
