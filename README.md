@@ -1,5 +1,5 @@
-[![Medium](https://veroanggra.github.io/medium5.svg)](https://medium.com/@veroanggra)
-[![Medium](https://veroanggra.github.io/linkedin.svg)](https://medium.com/@veroanggra)
+[![Medium](https://veroanggra.github.io/medium.svg)](https://medium.com/@veroanggra)
+[![Linkedin](https://veroanggra.github.io/linkedin.svg)](https://www.linkedin.com/in/veroanggra/)
 
 
 
