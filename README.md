@@ -1,4 +1,4 @@
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![Medium](https://skydoves.github.io/badges/Story-Medium.svg)](https://github.com/veroanggra)
 
 
 <!--
