@@ -1,12 +1,10 @@
-<br>
-
-## ✨ Get to know me!
+## :cat: Halo Vero Here!
 
 👩🏻‍💻 Lead **[Google Developer Group Chapter Bogor, Indonesia](https://gdg.community.dev/)**
 <br>
 👩🏻‍💻 Ambassador **[Women Techmakers Bogor, Indonesia](https://developers.google.com/womentechmakers/)**
 <br>
-💻 Currently, a **Android** learner and **Flutter** Enthusiast
+💻 Currently, an **Android** learner and **Flutter** Enthusiast
 
 
 <br>
