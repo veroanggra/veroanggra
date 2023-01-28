@@ -1,3 +1,17 @@
+<br>
+
+## ✨ Get to know me!
+
+👩🏻‍💻 Lead **[Google Developer Group Chapter Bogor, Indonesia](https://gdg.community.dev/)**
+<br>
+👩🏻‍💻 Ambassador **[Women Techmakers Bogor, Indonesia](https://developers.google.com/womentechmakers/)**
+<br>
+💻 Currently, a **Android** learner and **Flutter** Enthusiast
+
+
+<br>
+<br>
+
 [![Medium](https://veroanggra.github.io/medium.svg)](https://medium.com/@veroanggra)
 [![Linkedin](https://veroanggra.github.io/linkedin.svg)](https://www.linkedin.com/in/veroanggra/)
 
