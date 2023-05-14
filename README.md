@@ -1,6 +1,6 @@
 ## :cat: Halo Vero Here!
 
-👩🏻‍💻 **[Google Developer Expert Android](https://gdg.community.dev/](https://developers.google.com/community/experts)**
+👩🏻‍💻 **[Google Developer Expert Android](https://developers.google.com/community/experts)**
 <br>
 👩🏻‍💻 Lead **[Google Developer Group Chapter Bogor, Indonesia](https://gdg.community.dev/)**
 <br>
