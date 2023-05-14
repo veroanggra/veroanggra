@@ -1,5 +1,7 @@
 ## :cat: Halo Vero Here!
 
+👩🏻‍💻 Google Developer Expert Android **[Google Developer Group Chapter Bogor, Indonesia](https://gdg.community.dev/)**
+<br>
 👩🏻‍💻 Lead **[Google Developer Group Chapter Bogor, Indonesia](https://gdg.community.dev/)**
 <br>
 👩🏻‍💻 Ambassador **[Women Techmakers Bogor, Indonesia](https://developers.google.com/womentechmakers/)**
